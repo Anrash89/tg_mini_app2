@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tg_mini_app2/static/css/main.adc65918.css",
+    "main.js": "/tg_mini_app2/static/js/main.ffba59f6.js",
+    "static/js/453.7d8e3794.chunk.js": "/tg_mini_app2/static/js/453.7d8e3794.chunk.js",
+    "index.html": "/tg_mini_app2/index.html",
+    "main.adc65918.css.map": "/tg_mini_app2/static/css/main.adc65918.css.map",
+    "main.ffba59f6.js.map": "/tg_mini_app2/static/js/main.ffba59f6.js.map",
+    "453.7d8e3794.chunk.js.map": "/tg_mini_app2/static/js/453.7d8e3794.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adc65918.css",
+    "static/js/main.ffba59f6.js"
+  ]
+}
